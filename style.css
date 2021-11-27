@@ -1,0 +1,12 @@
+body{
+    background-image:url("Dark.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+    text-align:center;
+    color:orange;
+}
+canvas{
+    border:9px lime solid;
+    box-shadow:5px 5px 30px blanchedalmond;
+}
